@@ -1,5 +1,6 @@
 #### [grunt-learn](https://github.com/RongMine/grunt-learn "地址")
 
+```javascript
 // module.exports = function(grunt) {//wrapper函数
 //     //注册任务
 //     /*
@@ -73,3 +74,4 @@ module.exports = function(grunt){
         grunt.task.run(['test1','test2','test3','test4']);
     })
 }
+```
